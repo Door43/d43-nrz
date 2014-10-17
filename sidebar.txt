@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nrz:home|Door43 (nrz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nrz|d43-nrz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nrz/archive/master.zip|d43-nrz.zip]]
+
+**Recent Changes**
+{{changes>ns = nrz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nrz|Ethnologue data]]
+
